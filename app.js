@@ -238,7 +238,7 @@ function showGrades(){
   })
 }
 
-// Show Data
+// Show Data (JOIN)
 function showFullData(){
   db.all(`
     SELECT 
